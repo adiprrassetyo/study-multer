@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "nama" : "Budi",
+        "umur" : 20,
+        "hobi" : ["Membaca", "Menulis"]
+    },
+    {
+        "id" : 2,
+        "nama" : "Andi",
+        "umur" : 21,
+        "hobi" : ["Menyanyi", "Melukis"]
+    },
+    {
+        "id" : 3,
+        "nama" : "Caca",
+        "umur" : 22,
+        "hobi" : ["Bersepeda"]
+    },
+    {
+        "id" : 4,
+        "nama" : "Dedi",
+        "umur" : 23,
+        "hobi" : ["Melukis", "Menulis"]
+    },
+    {
+        "id" : 5,
+        "nama" : "Euis",
+        "umur" : 24,
+        "hobi" : ["Bernyanyi", "Bersepeda", "Melukis"]
+    }
+]

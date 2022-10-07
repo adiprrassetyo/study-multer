@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "nama_buku": "Quod ut at odit blanditiis et.",
+    "penulis": "Gladys",
+    "harga": 944460,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 2,
+    "nama_buku": "Nam praesentium repudiandae eos praesentium suscipit itaque.",
+    "penulis": "Orlando",
+    "harga": 238736,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 3,
+    "nama_buku": "A tenetur rerum aut amet.",
+    "penulis": "Renee",
+    "harga": 245519,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 4,
+    "nama_buku": "Necessitatibus facilis voluptatum soluta.",
+    "penulis": "Stephon",
+    "harga": 714248,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 5,
+    "nama_buku": "Expedita odit pariatur iste et quae suscipit.",
+    "penulis": "Caesar",
+    "harga": 523321,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 6,
+    "nama_buku": "Dolorem accusantium dolor nam repellat sed quo quibusdam vero est.",
+    "penulis": "Joseph",
+    "harga": 953249,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 7,
+    "nama_buku": "Voluptates laborum eligendi nesciunt quo minus quaerat alias.",
+    "penulis": "Lela",
+    "harga": 661117,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 8,
+    "nama_buku": "Accusantium et a.",
+    "penulis": "Nicolas",
+    "harga": 166836,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 9,
+    "nama_buku": "Consequatur dolorum fuga maxime praesentium deserunt enim quis rerum.",
+    "penulis": "Jayce",
+    "harga": 703738,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 10,
+    "nama_buku": "Nihil et nisi tempora veniam itaque exercitationem omnis.",
+    "penulis": "Caitlyn",
+    "harga": 708901,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 11,
+    "nama_buku": "Amet ut delectus provident sit accusamus quam porro cumque.",
+    "penulis": "Orion",
+    "harga": 184580,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 12,
+    "nama_buku": "Modi enim ut et ex porro modi quidem voluptatem.",
+    "penulis": "Tyler",
+    "harga": 851953,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 13,
+    "nama_buku": "Tenetur sequi at a nisi.",
+    "penulis": "Carolina",
+    "harga": 906713,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 14,
+    "nama_buku": "Earum qui id nam.",
+    "penulis": "Minnie",
+    "harga": 17819,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 15,
+    "nama_buku": "Cupiditate soluta quaerat distinctio aut nihil reprehenderit.",
+    "penulis": "Roger",
+    "harga": 644136,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 16,
+    "nama_buku": "Deserunt deserunt velit.",
+    "penulis": "Lee",
+    "harga": 283337,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 17,
+    "nama_buku": "Temporibus enim ratione.",
+    "penulis": "Edythe",
+    "harga": 340142,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 18,
+    "nama_buku": "Sit nobis consequatur et adipisci velit eos.",
+    "penulis": "Evelyn",
+    "harga": 549234,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 19,
+    "nama_buku": "Rerum architecto culpa rerum aut temporibus voluptas.",
+    "penulis": "Gerson",
+    "harga": 603869,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 20,
+    "nama_buku": "Perspiciatis autem quia quisquam maxime natus repudiandae nemo ullam omnis.",
+    "penulis": "Kris",
+    "harga": 634750,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 21,
+    "nama_buku": "Eligendi voluptatibus aliquam nisi sit.",
+    "penulis": "Doris",
+    "harga": 553241,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 22,
+    "nama_buku": "Quibusdam at illum voluptas aut.",
+    "penulis": "Catherine",
+    "harga": 594208,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 23,
+    "nama_buku": "Corporis ad quia aut ipsa consequuntur omnis.",
+    "penulis": "Kiley",
+    "harga": 177381,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 24,
+    "nama_buku": "Dolorum nulla tempora.",
+    "penulis": "Arvilla",
+    "harga": 289775,
+    "image": "https://loremflickr.com/640/480/abstract"
+  },
+  {
+    "id": 25,
+    "nama_buku": "Unde eius nihil aut.",
+    "penulis": "Camylle",
+    "harga": 742677,
+    "image": "https://loremflickr.com/640/480/abstract"
+  }
+]
